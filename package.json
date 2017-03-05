@@ -1,0 +1,14 @@
+{
+  "name": "demo-credential-management-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node src"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.24.0",
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  }
+}
